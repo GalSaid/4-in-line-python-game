@@ -11,3 +11,5 @@ Several modules appear in this folder:
 5) Audio for the start and end game.
 
 The 2 game types have been combined into one game with a choice option.
+
+TO RUN THE GAME ON YOUR LOCAL PC, YOU CAN CLICK ON THE EXE FILE WITHOUT ANY DEPENDENCIES INSTALLED .
