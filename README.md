@@ -12,4 +12,4 @@ Several modules appear in this folder:
 
 The 2 game types have been combined into one game with a choice option.
 
-TO RUN THE GAME ON YOUR LOCAL PC, YOU CAN <a href=https://github.com/GalSaid/4-in-line-python-game/blob/a726024f99ef4b431d76d7ea6d469862bdf4f51a/main.exe>CLICK ON THE EXE FILE</a> WITHOUT ANY DEPENDENCIES INSTALLED .
+TO RUN THE GAME ON YOUR LOCAL PC, YOU CAN <a href=https://github.com/GalSaid/4-in-line-python-game/blob/a726024f99ef4b431d76d7ea6d469862bdf4f51a/main.exe>DOWNLOAD THE EXE FILE</a> WITHOUT ANY DEPENDENCIES INSTALLED .
