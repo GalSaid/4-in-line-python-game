@@ -18,6 +18,6 @@ The 2 game types have been combined into one game with a choice option on the in
 <img tital="Initial screen" src="https://github.com/GalSaid/4-in-line-python-game/assets/120250560/4907d5d9-35a2-45c6-8bb1-b38c6c8ed655" width=150></br>
 
 <h2>Run</h2>
-To run the game on your pc, you can <a href=https://github.com/GalSaid/4-in-line-python-game/blob/a726024f99ef4b431d76d7ea6d469862bdf4f51a/main.exe>download the exe file</a> without any dependencies installed.
+To run the game on your pc, you can <a href="https://github.com/GalSaid/4-in-line-python-game/releases/tag/Latest">download the exe file</a> without any dependencies installed from Releases folder.
 
 
